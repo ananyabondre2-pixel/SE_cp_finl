@@ -1,0 +1,4 @@
+Linear Regression: R2 = 0.98
+Random Forest: R2 = 0.916
+SVR: R2 = -0.022
+Decision Tree: R2 = 0.892
